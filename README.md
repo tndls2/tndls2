@@ -7,7 +7,7 @@
 
 <h3> 🏢 Career </h3>
 
-| PERIOD | TITLE | SUBJECT |
+| Period | Title | Subject |
 | ------- | ------- | ------- | 
 | 2020.03 - 2024.02 | 아주대학교 사이버보안학과 학사 |  |
 | 2022.09 - 2023.06 | GDSC Ajou 1기 수료 |  |
