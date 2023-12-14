@@ -1,5 +1,3 @@
-<h2> Back-end Developer </h2>
-
 <h3><b> ✍️ Dev Blog </b></h3> 
 <div style="display:flex; flex-direction:row;">
 <a href="https://medium.com/@park.suin"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a> <a href="https://jonnastudy.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
