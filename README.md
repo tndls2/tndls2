@@ -1,7 +1,8 @@
 <h3><b> About Me </b></h3> 
 <h4>📁 포트폴리오 📁 <a href="https://zrr.kr/GFIR"> https://zrr.kr/GFIR </a></h4>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndls3026)](https://solved.ac/tndls3026)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndls3026)](https://solved.ac/tndls3026/)
+
 
 <h3><b> ✍️ Dev Blog </b></h3> 
 <div style="display:flex; flex-direction:row;">
