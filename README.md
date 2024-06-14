@@ -1,12 +1,11 @@
-<h3><b> ⭐️ About Me </b></h3> 
-<a href="https://suin-park.notion.site/a5431bb638dc4a8ca1c1c2827aff0d29?pvs=4"> 포트폴리오 </a>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndls3026)](https://solved.ac/tndls3026)
-
+<h3><b> About Me </b></h3> 
+<h4>📁 포트폴리오 📁 <a href="https://zrr.kr/GFIR"> https://zrr.kr/GFIR </a></h4>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndls3026)](https://solved.ac/tndls3026)
 
 <h3><b> ✍️ Dev Blog </b></h3> 
 <div style="display:flex; flex-direction:row;">
-<a href="https://medium.com/@park.suin"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a> <a href="https://jonnastudy.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+<a href="https://jonnastudy.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 </div>
 
 <h3><b> ✉️ Contact </b></h3> 
