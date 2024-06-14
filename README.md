@@ -1,3 +1,5 @@
+![snake gif](https://github.com/tndls2/tndls2/blob/output/github-contribution-grid-snake.svg)
+
 <h3><b> About Me </b></h3> 
 <h4>📁 포트폴리오 📁 <a href="https://zrr.kr/GFIR"> https://zrr.kr/GFIR </a></h4>
 
