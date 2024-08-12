@@ -15,7 +15,9 @@
 
 <h3> ✉️ Contact </h3> 
 <div style="display:flex; flex-direction:row;">
-<a href="mailto:tndls3026@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tndls3026@ajou.ac.kr"/></a> <a href="[https://www.linkedin.com/in/cowkite/](https://www.linkedin.com/in/%EC%88%98%EC%9D%B8-%EB%B0%95-949180286/)" target="_blank"><img src="https://img.shields.io/badge/SuinPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tndls3026@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tndls3026@ajou.ac.kr"/></a> <a href="https://www.linkedin.com/in/suinbundang/" target="_blank">
+    <img src="https://img.shields.io/badge/SuinPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 </div>
 
 <h3>🛠 Stack </h3>
