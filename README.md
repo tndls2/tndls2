@@ -5,8 +5,8 @@
 <!--<h3><b> About Me </b></h3> --?
 <!--<h4>📁 포트폴리오 📁 <a href="https://zrr.kr/GFIR"> https://zrr.kr/GFIR </a></h4>-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftndls3026&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/tndls3026)  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndls3026)](https://solved.ac/tndls3026)
+<!--<[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftndls3026&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/tndls3026) -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndls3026)](https://solved.ac/tndls3026)
 
 <h3> ✍️ Dev Blog </h3> 
 <div style="display:flex; flex-direction:row;">
