@@ -15,7 +15,7 @@
                     overflow: hidden;
                     border-right: 3px solid;
                     font-family: monospace;
-                    font-size: 1em; /* 300x150에 맞춰 글자 크기 조정 */
+                    font-size: 1.6em; /* 글씨 크기 ↑ */
                     background: linear-gradient(90deg,
                         rgba(0,241,220,1) 0%,
                         rgba(86,115,241,1) 44%,
