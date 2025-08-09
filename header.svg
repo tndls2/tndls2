@@ -1,31 +1,33 @@
-<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="300" height="150" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;">
             <style>
                 .wrapper {
-                    height: 100vh;
+                    height: 100%;
                     display: grid;
                     place-items: center;
                 }
 
                 .text {
-                    width: 50ch;
+                    width: 29ch; /* 글자 수 맞춤 */
                     animation: typing 3s steps(29), blink .5s step-end infinite alternate;
                     white-space: nowrap;
                     overflow: hidden;
                     border-right: 3px solid;
                     font-family: monospace;
-                    font-size: 4em;
-                    background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
+                    font-size: 1em; /* 300x150에 맞춰 글자 크기 조정 */
+                    background: linear-gradient(90deg,
+                        rgba(0,241,220,1) 0%,
+                        rgba(86,115,241,1) 44%,
+                        rgba(103,68,241,1) 54%,
+                        rgba(254,0,255,1) 100%);
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
                 }
 
                 @keyframes typing {
-                    from {
-                    width: 0
-                    }
-					to { width: 29ch }
+                    from { width: 0 }
+                    to { width: 29ch }
                 }
 
                 @keyframes blink {
