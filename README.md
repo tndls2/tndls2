@@ -1,8 +1,8 @@
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/tndls2/tndls2/blob/main/header.svg">
     <img src="header.svg" alt="Click to see the source" width="500" />
   </a>
-</div>
+</div>-->
 
 <div align="center">
 
