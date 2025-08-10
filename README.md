@@ -1,14 +1,10 @@
-<!--<div align="center">
-  <a href="https://github.com/tndls2/tndls2/blob/main/header.svg">
-    <img src="header.svg" alt="Click to see the source" width="500" />
-  </a>
-</div>-->
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&duration=4000&pause=4000&color=F75F27&vCenter=true&repeat=false&width=580&lines=Divide%2C+Conquer%2C+and+Combine)](https://git.io/typing-svg)
 
 <h3> ✉️ Contact </h3> 
 <div style="display:flex; flex-direction:row;">
-<a href="mailto:tndls3026@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tndls3026@ajou.ac.kr"/></a> <a href="https://www.linkedin.com/in/suinbundang/" target="_blank">
+<!-- <a href="mailto:tndls3026@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tndls3026@ajou.ac.kr"/></a> <a href="https://www.linkedin.com/in/suinbundang/" target="_blank"> -->
     <img src="https://img.shields.io/badge/SuinPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 </div>
@@ -23,4 +19,5 @@
 
 ![snake gif](https://github.com/tndls2/tndls2/blob/output/github-contribution-grid-snake.svg)
 
+  
 </div>
