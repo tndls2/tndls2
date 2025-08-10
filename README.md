@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&duration=4000&pause=4000&color=F75F27&vCenter=true&repeat=false&width=580&lines=Divide%2C+Conquer%2C+and+Combine)](https://git.io/typing-svg)
 
-<h3> ✉️ Contact </h3> 
-<div style="display:flex; flex-direction:row;">
-<!-- <a href="mailto:tndls3026@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tndls3026@ajou.ac.kr"/></a> <a href="https://www.linkedin.com/in/suinbundang/" target="_blank"> -->
-    <img src="https://img.shields.io/badge/SuinPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-</div>
-
 <h3>🛠 Stack </h3>
 <h4><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></h4>
 
