@@ -10,7 +10,7 @@
 
 <h4><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=MongoDB&logoColor=white"/></h4>
 
-![snake gif](https://github.com/tndls2/tndls2/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/tndls2/tndls2/blob/output/github-contribution-grid-snake.svg)-->
 
   
 </div>
